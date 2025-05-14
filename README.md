@@ -7,7 +7,8 @@ The aim of this research work has been to evaluate the suitability of data-drive
 - Adaptive Boosting, 
 - Gradient Boosting, 
 - Extreme Gradient Boosting, 
-- Logistic Regression, Support Vector Classifier, and 
+- Logistic Regression, 
+- Support Vector Classifier, and 
 - Neural Network. 
 
 The models received as input topographical information of the study area, derived by GIS analysis of a 5x5 m DEM and a land cover map, interpolated weather station data, snow cover information from Landsat 8 and the susceptibility to shallow landslides acquired by Shalstab.
