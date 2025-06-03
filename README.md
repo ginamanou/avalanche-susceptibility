@@ -11,4 +11,4 @@ The aim of this research work has been to evaluate the suitability of data-drive
 - Support Vector Classifier, and 
 - Neural Network. 
 
-The models received as input topographical information of the study area derived by GIS analysis of a 5x5 m DEM and a land cover map, interpolated weather station data obtained by the National Meteorological Service of Andorra, snow cover information from Landsat 8 and the susceptibility to shallow landslides acquired by Shalstab, a digital terrain model for mapping shallow landslide potential developed by William E. Dietrich and David R. Montgomery.
+The models received as input **a)** topographical information of the study area derived by GIS analysis of a 5x5 m DEM and a land cover map, **b)** interpolated weather station data obtained by the National Meteorological Service of Andorra, **c)** snow cover information from Landsat 8 and **d)** the susceptibility to shallow landslides acquired by Shalstab, a digital terrain model for mapping shallow landslide potential developed by William E. Dietrich and David R. Montgomery.
