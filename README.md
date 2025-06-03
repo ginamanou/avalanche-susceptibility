@@ -1,7 +1,7 @@
 # Avalanche Susceptibility Assessment
 A collection of python notebooks created during the conduction of an MSc thesis at the Universitat Politecnica de Catalunya with the title: “Comparison of data-driven models for avalanche susceptibility assessment in Andorra”.
 
-The aim of this research work has been to evaluate the suitability of data-driven models to assess susceptibility and map initiation areas of snow avalanches in Andorra. This aim was formulated as a **classification** task and the **machine learning** algorithms that were brought to the test included the:
+The aim of this research work has been to evaluate the suitability of data-driven models to assess **susceptibility** and **map initiation areas** of snow avalanches in Andorra. This aim was formulated as a **classification** task. The **machine learning** algorithms that were brought to the test included the following:
 - Decision Tree, 
 - Random Forest, 
 - Adaptive Boosting, 
@@ -11,4 +11,4 @@ The aim of this research work has been to evaluate the suitability of data-drive
 - Support Vector Classifier, and 
 - Neural Network. 
 
-The models received as input topographical information of the study area, derived by GIS analysis of a 5x5 m DEM and a land cover map, interpolated weather station data, snow cover information from Landsat 8 and the susceptibility to shallow landslides acquired by Shalstab.
+The models received as input topographical information of the study area derived by GIS analysis of a 5x5 m DEM and a land cover map, interpolated weather station data obtained by the National Meteorological Service of Andorra, snow cover information from Landsat 8 and the susceptibility to shallow landslides acquired by Shalstab, a digital terrain model for mapping shallow landslide potential developed by William E. Dietrich and David R. Montgomery.
